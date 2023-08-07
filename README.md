@@ -11,4 +11,4 @@ Flow : Home Page > View all customers > Select and View one customer > Transfer 
 website link:-
 https://shashi2oo2.github.io/Basic-Banking-System/index.html
 
-https://shashi2oo2.github.io/Basic-Banking-System/index.html
+
